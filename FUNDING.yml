@@ -1,1 +1,7 @@
-custom: ["https://puoluerekisteri.fi/puolue/51", "https://www.piraattipuolue.fi/lahjoita", "https://www.piraattipuolue.fi/osta", "https://www.piraattipuolue.fi/liity-jaseneksi"]
+custom:
+  [
+    "https://puoluerekisteri.fi/puolue/51",
+    "https://www.piraattipuolue.fi/lahjoita",
+    "https://www.piraattipuolue.fi/osta",
+    "https://www.piraattipuolue.fi/liity-jaseneksi",
+  ]
