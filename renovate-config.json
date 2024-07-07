@@ -1,0 +1,22 @@
+{
+  "extends": [
+    "config:recommended",
+    "group:allDigest"
+  ],
+  "git-submodules": {
+    "enabled": true
+  },
+  "mode": "full",
+  "packageRules": [
+    {
+      "automerge": false,
+      "matchPackagePatterns": [
+        "*"
+      ]
+    }
+  ],
+  "pre-commit": {
+    "enabled": true
+  },
+  "timezone": "Europe/Helsinki"
+}
