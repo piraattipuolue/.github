@@ -20,7 +20,7 @@ repos:
         exclude_types: [tsv, markdown]
 
   - repo: https://github.com/editorconfig-checker/editorconfig-checker.python
-    rev: "2.7.3"
+    rev: "3.11.1"
     hooks:
       - id: editorconfig-checker
         alias: ec
